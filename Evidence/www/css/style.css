@@ -1,0 +1,112 @@
+.Boton-carne
+{
+	background-color: #CC0000;
+	color:white;
+	font-size: 60px;
+	font-style: italic;
+	vertical-align: center;
+	text-align: center;
+}
+
+.PositionTopLeft
+{
+	width: 400px;
+	height: 250px;
+	float:left;
+	margin: 40px;
+	margin-left: 290px;
+}
+
+.Boton-bebidas
+{
+	background-color: #3333FF;
+	color:white;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.PositionTopRight
+{
+	width: 400px;
+	height: 250px;
+	float:right;
+	margin-top: 40px;
+	margin-right:200px;
+}
+
+.Boton-Postres
+{
+	background-color: #FFCC00;
+	color:white;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.PositionBottomLeft
+{
+	width: 400px;
+	height: 250px;
+	float:left;
+	margin: 0px;
+	margin-left: 295px;
+}
+
+.Boton-random
+{
+	background-color: #66CC00!important;
+	color:white;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.PositionBottomRight
+{
+	width: 400px;
+	height: 250px!important;
+	float:right;
+	margin: 0px;
+	margin-right: 200px;
+}
+
+.PositionRight
+{
+	width: 300px;
+	height: 200px;
+	float:right;
+	margin-right: 350px;
+
+}
+
+.InputLeft
+{
+	float:left;
+	margin-top:50px;
+	margin-right: 800px;
+	margin-left: 350px;
+}
+
+.posisionamiento
+{
+	float:bottom;
+	margin-left: 450px;
+	margin-top: 400px;
+	font-size: 60px;
+}
+
+.Centro
+{
+    position: static;
+
+    height: 70px;
+    width: 150px;
+    top: 50%;
+    left: 50%;
+    margin: 10px;
+
+    margin-left: 550px;
+}
+
+.AlignCenter
+{
+  line-height: 300%;
+}
